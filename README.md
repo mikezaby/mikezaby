@@ -10,6 +10,5 @@ Fullstack ή από τα σίδερα μέχρι τις οθόνες // Fullstac
 - 🤖 Keen on expanding my knowledge in Rust and exploring its potential in web and audio applications.
 - ☕️ Beyond code and music, I'm searching the perfect home coffee brewing.
 
-Let's Connect:
 
 📫 Reach me at: [mikezaby@gmail.com]

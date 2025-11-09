@@ -5,7 +5,7 @@ Fullstack ή από τα σίδερα μέχρι τις οθόνες // Fullstac
 From the tactile keys of my laptop to the expressive touch of my synth and MIDI keyboards.
 
 ## 🚀 Projects
-  - **[Blibliki](https://github.com/blibliki-js/engine):** A data-driven audio engine for the web and more.
+  - **[Blibliki](https://github.com/mikezaby/blibliki):** A data-driven audio engine for the web and more.
   - **[MyData](https://github.com/mikezaby/my_data):** A Ruby client for AADE MyData.
 
 ## 💡 Collaborating

@@ -1,5 +1,5 @@
 # [Michalis Zabaras](https://www.linkedin.com/in/michalis-zabaras-97b5002b/) // [Mike Zaby](https://github.com/mikezaby) // [Miza Kiro](https://www.youtube.com/@mizakiro)
-Fullstack ή από τα σίδερα μέχρι τις οθόνες // Fullstack or from metal to monitors.
+Fullstack / WebAudio / Music / Coffee
 
 ## 🎹 All kind of keyboards
 From the tactile keys of my laptop to the expressive touch of my synth and MIDI keyboards.

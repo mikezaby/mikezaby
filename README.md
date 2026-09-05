@@ -1,6 +1,6 @@
 # Michalis Zabaras
 
-Athens. Keyboards of every kind. I go by [mikezaby](https://github.com/mikezaby) when I write code and [Miza Kiro](https://www.youtube.com/@mizakiro) when I make music, and the line between the two gets blurrier every year.
+Keyboards of every kind. I go by [mikezaby](https://github.com/mikezaby) when I write code and [Miza Kiro](https://www.youtube.com/@mizakiro) when I make music, and the line between the two gets blurrier every year.
 
 I build instruments. Some of them are songs, most of them are code.
 
